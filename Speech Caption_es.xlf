@@ -174,18 +174,21 @@
         </segment>
       </unit>
       <unit id="6920139554664448" name="Can feel shy (Cap 2) (New)" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>With encouragement,</source>
+          <target>Con ánimo,</target>
         </segment>
       </unit>
       <unit id="6920263139831808" name="Can feel shy (Cap 3) (New)" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>we can make them feel included</source>
+          <target>podemos hacer que se sientan incluidos</target>
         </segment>
       </unit>
       <unit id="6921463369281536" name="Invite to dance" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>We can invite them to dance with us…</source>
+          <target>Podemos invitarles a bailar con nosotros..</target>
         </segment>
       </unit>
       <unit id="6924080497537024" name="Share our moves" xml:space="preserve">

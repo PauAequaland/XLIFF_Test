@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="cbc6cbc10783b24419811173cf5936ac" original="Assets/Settings/Localization/Tables/Speech Caption Table/Speech Caption Table_es.asset">
+    <group id="ff5756eac897dba46bc2d0578cd08115" name="Speech Caption Table">
+      <unit id="34128244736" name="End learn 1 (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Wow</source>
+          <target>Wow</target>
+        </segment>
+      </unit>
+      <unit id="1031231746048" name="End learn 1 (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>you taught me something new</source>
+          <target>me has enseñado algo nuevo</target>
+        </segment>
+      </unit>
+      <unit id="71119595089920" name="First learn (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Your dance move really makes me smile</source>
+          <target>Tus bailes me hacen sonreir</target>
+        </segment>
+      </unit>
+      <unit id="71535087038464" name="First learn (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>and I can't wait to learn it.</source>
+          <target>y tengo muchas ganas de aprenderlos</target>
+        </segment>
+      </unit>
+      <unit id="1135557433602048" name="End learn 2 (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Thank you for showing me your great move</source>
+          <target>Gracias por enseñarme tu super baile</target>
+        </segment>
+      </unit>
+      <unit id="1136193055207424" name="End learn 2 (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>now we can dance together</source>
+          <target>ahora podemos bailar juntos</target>
+        </segment>
+      </unit>
+      <unit id="1138817649324032" name="End learn 3" xml:space="preserve">
+        <segment>
+          <source>Thank you for showing me your creativity</source>
+          <target>Gracias por enseñarme tu creatividad</target>
+        </segment>
+      </unit>
+      <unit id="1140992773435392" name="Lights Change (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Wow, look!</source>
+          <target>Wow, mira!</target>
+        </segment>
+      </unit>
+      <unit id="1141161720000512" name="Lights Change (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>By sharing your dance moves</source>
+          <target>Compartiendo tus bailes</target>
+        </segment>
+      </unit>
+      <unit id="1141865922670592" name="Lights Change (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>we have made the lights change colour</source>
+          <target>hemos hecho que cambien las luces</target>
+        </segment>
+      </unit>
+      <unit id="1143754064113664" name="Fun Together" xml:space="preserve">
+        <segment>
+          <source>Without you at the dance party it wouldn't be as fun</source>
+          <target>Sin ti en la fiesta, no hubiera sido tan divertido</target>
+        </segment>
+      </unit>
+      <unit id="1145758320668672" name="End learn 4 (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>This has made me feel strong,</source>
+          <target>Esto me ha hecho sentime fuerte, </target>
+        </segment>
+      </unit>
+      <unit id="1147420842110976" name="End learn 4 (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>brave and confident</source>
+          <target>valiente y seguro</target>
+        </segment>
+      </unit>
+      <unit id="1149137054838784" name="Hard at first (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>It can be hard at first</source>
+          <target>Puede ser difícil al principio</target>
+        </segment>
+      </unit>
+      <unit id="1149390457909248" name="Hard at first (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>but with others encouragement</source>
+          <target>pero con la ayuda de los demás</target>
+        </segment>
+      </unit>
+      <unit id="1149487996448768" name="Hard at first (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>I can do it</source>
+          <target>puedo hacerlo</target>
+        </segment>
+      </unit>
+      <unit id="2596344912130048" name="Idea works (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Daji</source>
+        </segment>
+      </unit>
+      <unit id="2596582649475072" name="Idea works (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>your idea is starting to work</source>
+        </segment>
+      </unit>
+      <unit id="2596664283213824" name="Idea works (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>look!</source>
+        </segment>
+      </unit>
+      <unit id="2605861301366784" name="Makes feel" xml:space="preserve">
+        <segment>
+          <source>Dancing makes them feel happy!</source>
+        </segment>
+      </unit>
+      <unit id="2613309965840384" name="Can feel shy (Cap 1) (Old)" xml:space="preserve">
+        <segment>
+          <source>Sometimes we can feel shy</source>
+        </segment>
+      </unit>
+      <unit id="2613684567519232" name="Can feel shy (Cap 2) (Old)" xml:space="preserve">
+        <segment>
+          <source>or worried in front of others</source>
+        </segment>
+      </unit>
+      <unit id="2622424440090624" name="Some encouragement" xml:space="preserve">
+        <segment>
+          <source>I think they might need some encouragement</source>
+        </segment>
+      </unit>
+      <unit id="2639858207272960" name="That feel great (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Didn’t that feel great</source>
+        </segment>
+      </unit>
+      <unit id="2640078022356992" name="That feel great (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>and look</source>
+        </segment>
+      </unit>
+      <unit id="2640158792069120" name="That feel great (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>you have included the others and encouraged them to join in</source>
+        </segment>
+      </unit>
+      <unit id="2640297367678976" name="That feel great (Cap 4)" xml:space="preserve">
+        <segment>
+          <source>and feel the music in their hearts too</source>
+        </segment>
+      </unit>
+      <unit id="2689954743562240" name="Including (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Imagine what else we could do </source>
+        </segment>
+      </unit>
+      <unit id="2690312261840896" name="Including (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>from empowering one another</source>
+        </segment>
+      </unit>
+      <unit id="2690374207516672" name="Including (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>and including everyone</source>
+        </segment>
+      </unit>
+      <unit id="6919819080478720" name="Can feel shy (Cap 1) (New)" xml:space="preserve">
+        <segment>
+          <source>Sometimes others feel shy to join in</source>
+        </segment>
+      </unit>
+      <unit id="6920139554664448" name="Can feel shy (Cap 2) (New)" xml:space="preserve">
+        <segment>
+          <source>With encouragement,</source>
+        </segment>
+      </unit>
+      <unit id="6920263139831808" name="Can feel shy (Cap 3) (New)" xml:space="preserve">
+        <segment>
+          <source>we can make them feel included</source>
+        </segment>
+      </unit>
+      <unit id="6921463369281536" name="Invite to dance" xml:space="preserve">
+        <segment>
+          <source>We can invite them to dance with us…</source>
+        </segment>
+      </unit>
+      <unit id="6924080497537024" name="Share our moves" xml:space="preserve">
+        <segment>
+          <source>...share our moves…</source>
+        </segment>
+      </unit>
+      <unit id="6926223803658240" name="Celebrate progress" xml:space="preserve">
+        <segment>
+          <source>...and celebrate their progress</source>
+        </segment>
+      </unit>
+      <unit id="6930078532612096" name="Help encourage (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Help us to encourage all the shapes and colors to dance</source>
+        </segment>
+      </unit>
+      <unit id="6930357655154688" name="Help encourage (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>and learn from one another</source>
+        </segment>
+      </unit>
+      <unit id="6932975534190592" name="Role model" xml:space="preserve">
+        <segment>
+          <source>You are a great role model</source>
+        </segment>
+      </unit>
+      <unit id="6935821314928640" name="Our world creativity" xml:space="preserve">
+        <segment>
+          <source>Our world has been enriched by more creativity</source>
+        </segment>
+      </unit>
+      <unit id="6936919983501312" name="Different colors shapes" xml:space="preserve">
+        <segment>
+          <source>Different colors and shapes have learnt from each other</source>
+        </segment>
+      </unit>
+      <unit id="6938568915398656" name="Who will be" xml:space="preserve">
+        <segment>
+          <source>Who will be next on the dance floor?</source>
+        </segment>
+      </unit>
+      <unit id="19610662954315776" name="With encouragement (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>With encouragement, we can make them feel included</source>
+        </segment>
+      </unit>
+      <unit id="19610742180524032" name="With encouragement (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>we can invite them to dance with us</source>
+        </segment>
+      </unit>
+      <unit id="19611345153667072" name="With encouragement (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>share our moves</source>
+        </segment>
+      </unit>
+      <unit id="19611515647930368" name="With encouragement (Cap 4)" xml:space="preserve">
+        <segment>
+          <source>and celebrate their progress</source>
+        </segment>
+      </unit>
+      <unit id="19615547372318720" name="Bring joy to others" xml:space="preserve">
+        <segment>
+          <source>Your dance moves bring joy to others</source>
+        </segment>
+      </unit>
+      <unit id="19621265009782784" name="By sharing come to life (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Wow, look!</source>
+        </segment>
+      </unit>
+      <unit id="19621384258039808" name="By sharing come to life (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>By sharing</source>
+        </segment>
+      </unit>
+      <unit id="19621544623058944" name="By sharing come to life (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>you have made the disco come to life</source>
+        </segment>
+      </unit>
+      <unit id="19682149837025280" name="Our disco doesn't look (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Oh</source>
+        </segment>
+      </unit>
+      <unit id="19682385091342336" name="Our disco doesn't look (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>our disco doesn’t look very colourful</source>
+        </segment>
+      </unit>
+      <unit id="19682423406309376" name="Our disco doesn't look (Cap 3)" xml:space="preserve">
+        <segment>
+          <source>A new friend, they look shy.</source>
+        </segment>
+      </unit>
+      <unit id="19682444348469248" name="Our disco doesn't look (Cap 4)" xml:space="preserve">
+        <segment>
+          <source>Can you invite them to dance?</source>
+        </segment>
+      </unit>
+      <unit id="19686319369465856" name="Bring the character (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Bring the character into the spotlight</source>
+        </segment>
+      </unit>
+      <unit id="19686391385665536" name="Bring the character (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>so they can dance together</source>
+        </segment>
+      </unit>
+      <unit id="19922867012743168" name="Move around dance floor " xml:space="preserve">
+        <segment>
+          <source>Did you know you can move the characters around the dance floor?</source>
+        </segment>
+      </unit>
+      <unit id="19924020165324800" name="LetsCelebrateLearning" xml:space="preserve">
+        <segment>
+          <source>Let’s celebrate learning each other's moves</source>
+        </segment>
+      </unit>
+      <unit id="19924972633042944" name="Another color arrived (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Another colour has arrived. </source>
+        </segment>
+      </unit>
+      <unit id="19925177189249024" name="Another color arrived (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>How can we make them feel included? </source>
+        </segment>
+      </unit>
+      <unit id="19925902799646720" name="Go on invite (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Go on, invite them to dance in the spotlights</source>
+        </segment>
+      </unit>
+      <unit id="19926044432904192" name="Go on invite (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>so they can learn from each other</source>
+        </segment>
+      </unit>
+      <unit id="19926698769494016" name="More colours joining" xml:space="preserve">
+        <segment>
+          <source>More colours are joining our disco</source>
+        </segment>
+      </unit>
+      <unit id="19927454515965952" name="For each new colour (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>For each new colour,</source>
+        </segment>
+      </unit>
+      <unit id="19927701510139904" name="For each new colour (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>we learn a new dance move</source>
+        </segment>
+      </unit>
+      <unit id="19928462025535488" name="Everyone included (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Everyone is included and dancing together</source>
+        </segment>
+      </unit>
+      <unit id="19928581353484288" name="Everyone included (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>No one is feeling shy or left out anymore</source>
+        </segment>
+      </unit>
+      <unit id="19929392921948160" name="The dancer menu (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>The dancer menu can help us to see</source>
+        </segment>
+      </unit>
+      <unit id="19929464531300352" name="The dancer menu (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>who else can learn from each other</source>
+        </segment>
+      </unit>
+      <unit id="19930163197489152" name="Your turn to choose (Cap 1)" xml:space="preserve">
+        <segment>
+          <source>Now it’s your turn to choose</source>
+        </segment>
+      </unit>
+      <unit id="19930328151076864" name="Your turn to choose (Cap 2)" xml:space="preserve">
+        <segment>
+          <source>who else still can learn from each other?</source>
+        </segment>
+      </unit>
+      <unit id="19932700214538240" name="Our hearts feel" xml:space="preserve">
+        <segment>
+          <source>Our hearts feel full when we have made others happy by including them</source>
+        </segment>
+      </unit>
+      <unit id="19933943980863488" name="All come together" xml:space="preserve">
+        <segment>
+          <source>You have made all the dancers come together</source>
+        </segment>
+      </unit>
+      <unit id="19934762474123264" name="Make disco sparkly" xml:space="preserve">
+        <segment>
+          <source>You have helped to make our disco sparkly and full of life</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

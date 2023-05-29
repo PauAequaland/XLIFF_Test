@@ -159,8 +159,9 @@
         </segment>
       </unit>
       <unit id="2690312261840896" name="Including (Cap 2)" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>from empowering one another</source>
+          <target>de potenciarse mutuamente</target>
         </segment>
       </unit>
       <unit id="2690374207516672" name="Including (Cap 3)" xml:space="preserve">
